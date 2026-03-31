@@ -22,7 +22,7 @@ src/
 
 test/
 └── InventoryTest.java # JUnit 5 test suite (8 tests)
-
+--- 
 
 ## Features
 - Add and remove products from inventory
