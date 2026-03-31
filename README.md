@@ -1,4 +1,4 @@
-# Assignment 1 — Java OOP Inventory Management System
+# Java OOP Inventory Management System
 
 ## Overview
 A Java-based inventory management system for a retail store, built using core Object-Oriented Programming principles. The system supports multiple product types, stock management, and inventory value calculation.
